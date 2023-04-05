@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
      // 컴퓨터 2
     // 가입 기능 도원
-
+//ds
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
